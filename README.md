@@ -11,4 +11,5 @@ It includes a recorded video demonstrating all required steps:
 - Changing background color  
 - Resetting the simulation  
 
-Video File: MalekMotassem99.mp4
+Video File: [Click here to watch the video](MalekMotasem99.mp4)
+
